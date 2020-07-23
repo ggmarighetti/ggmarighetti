@@ -5,7 +5,7 @@
 
 
 # :rocket: Sobre mí
-Soy estudiante :man_student: de la carrera de Ingeniería en Informática con énfasis en Sistemas Informáticos :computer: en la Universidad Autónoma de Asunción :classical_building:, apasionado por la Informatica desde pequeño, llevo poco más de un año investigando y profundizándome :mag_right: en el desarrollo backend, principalmente en los lenguajes de CSharp y Java :coffee:.
+Soy estudiante :man_student: de la carrera de Ingeniería en Informática con énfasis en Sistemas Informáticos :computer: en la Universidad Autónoma de Asunción :classical_building:, apasionado por la computación desde pequeño, llevo poco más de un año investigando y profundizándome :mag_right: en el desarrollo backend, principalmente en los lenguajes de CSharp y Java :coffee:.
 
 
 
