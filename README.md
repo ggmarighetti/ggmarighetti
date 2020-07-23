@@ -1,11 +1,11 @@
-![](https://i.imgur.com/66T2K88.png)
+![](https://i.imgur.com/izWiGMB.png)
 
 
 
 
 
 # :rocket: Sobre mí
-Soy estudiante :man_student: de la carrera de Ingeniería en Informática con enfasis en Sistemas Informáticos :computer: en la Universidad Autonoma de Asuncion :classical_building:, apasioando por la informatica desde pequeño :adult:, llevo poco mas de un año :calendar: investigando y profundizandome :mag_right: en el desarrollo backend :closed_book:, principalmente en los lenguajes de Csharp y Java :coffee:.
+Soy estudiante :man_student: de la carrera de Ingeniería en Informática con énfasis en Sistemas Informáticos :computer: en la Universidad Autónoma de Asunción :classical_building:, apasionado por la Informatica desde pequeño, llevo poco más de un año investigando y profundizándome :mag_right: en el desarrollo backend, principalmente en los lenguajes de CSharp y Java :coffee:.
 
 
 
